@@ -1,2 +1,2 @@
 # beginner-python-
-pythpn basic codes 
+python basic codes 
